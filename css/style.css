@@ -229,6 +229,11 @@ body {
     object-fit: cover;
 }
 
+.site-footer a {
+    color: white;
+    text-decoration: none;
+}
+
 @media (max-width: 767px) {
     .site-header {
         flex-direction: column;
